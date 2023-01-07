@@ -17,6 +17,7 @@ Ganha quem conseguir completar verticalmente, horizontalmente e diagonalmente se
 
 - HTML
 - CSS
+- JS
 - Responsividade
 - Markdown
 
